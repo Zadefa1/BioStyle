@@ -1,8 +1,8 @@
-import avatarImg from "../assets/images/avatar.jpg";
+import avatarImg from "../assets/images/avatar1.jpg";
 import song from "../assets/audio/vulgar.mp3";
 import linkthumb001 from "../assets/images/link-thumb-001.jpg";
 import linkthumb002 from "../assets/images/link-thumb-002.jpg";
-import cover from "../assets/images/cover.jpg";
+import cover from "../assets/images/cover1.jpg";
 
 export const CONFIG = {
   name: "Zadeafae",
