@@ -7,18 +7,18 @@ import cover from "../assets/images/cover.jpg";
 export const CONFIG = {
   name: "Zadeafae",
   bio: "復讐が、いずれあなたに追いつく",
-  avatar: "/my-avatar.jpg",                    // ← Correto
+  avatar: avatarImg,
   music: {
-    src: "/vulgar.mp3",
+    src: song,
     title: "VULGAR",
     artist: "zZzLaya zZzAya",
     cover: cover,
   },
   socials: [
-   id: "telegram",
-   label: "Telegram", ,
-   href: "https://t.me/Zadefae
-  ],
+    {
+      id: "telegram",
+      label: "Telegram",
+      href: "https://t.me/Zadefae"
     }
   ],
 };
